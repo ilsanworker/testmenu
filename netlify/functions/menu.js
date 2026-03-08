@@ -1,4 +1,3 @@
-const fetch = require("node-fetch")
 const cheerio = require("cheerio")
 
 exports.handler = async function () {
